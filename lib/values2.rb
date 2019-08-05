@@ -4,7 +4,9 @@ require 'pry'
  groceries = {
   dairy: {
     milk: ["soy", "almond", "cow", "goat"], 
-    non-milk: ["yogurt", "cheese"]},
+    non-milk: ["yogurt", "cheese"]
+    
+  },
   vegetable: ["carrots", "broccoli", "cucumbers"],
   meat: ["chicken", "steak", "salmon"],
   grains: ["rice", "pasta"]
