@@ -12,3 +12,5 @@ def get_the_min(groceries)
   groceries.min
   #code your solution here!
 end
+
+puts get_the_min(groceries)
