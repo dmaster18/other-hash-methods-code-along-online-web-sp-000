@@ -3,7 +3,7 @@ require 'pry'
 #This is the groceries hash we'll be passing in to the get_the_values method
  groceries = {
   :dairy => {
-    
+    ""
     :milk => ["soy", "almond", "cow", "goat"], 
     :non_milk => ["yogurt", "cheese"]
   },
