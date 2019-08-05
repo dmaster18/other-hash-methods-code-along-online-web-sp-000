@@ -15,4 +15,4 @@ def get_the_values(groceries)
   #code your solution here!
 end
 
-puts get_the_values(groceries).class
+puts get_the_values(groceries)
