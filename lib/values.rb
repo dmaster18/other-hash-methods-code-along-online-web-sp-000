@@ -8,7 +8,7 @@ require 'pry'
   grains: ["rice", "pasta"]
  }
 
-puts 
+puts grocers
 
 def get_the_values(groceries)
   #code your solution here!
