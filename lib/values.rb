@@ -8,7 +8,7 @@ require 'pry'
   grains: ["rice", "pasta"]
  }
 
-puts groceries[:dairy][0]
+
 
 def get_the_values(groceries)
   #code your solution here!
