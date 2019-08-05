@@ -15,7 +15,7 @@ require 'pry'
 
 
 def get_the_values(groceries)
-  groceries[:dairy]values
+  groceries[:dairy].values
   #code your solution here!
 end
 
