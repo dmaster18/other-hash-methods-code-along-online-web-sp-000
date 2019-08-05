@@ -4,7 +4,7 @@ require 'pry'
  groceries = {
   :dairy => {
     :milk => ["soy", "almond", "cow", "goat"], 
-    :non_milk ["yogurt", "cheese"]
+    :non_milk => ["yogurt", "cheese"]
   },
   vegetable: ["carrots", "broccoli", "cucumbers"],
   meat: ["chicken", "steak", "salmon"],
