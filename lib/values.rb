@@ -11,7 +11,7 @@ require 'pry'
 
 
 def get_the_values(groceries)
-  puts groceries.values
+  groceries.values
   #code your solution here!
 end
 
